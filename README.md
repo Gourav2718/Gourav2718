@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gourav2718" alt="gourav2718" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [profile-mu-peach.vercel.app](profile-mu-peach.vercel.app)
-
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, NODE JS**
 
 - 📫 How to reach me **gouravsm123@gmail.com**
